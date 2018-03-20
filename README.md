@@ -1,1 +1,2 @@
-# promo5-unit-testing
+# unit-testing
+using karma jasmine
